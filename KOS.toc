@@ -1,0 +1,7 @@
+## Interface: 20503
+## Title: KOS
+## Notes: Kill on sight list.
+## Author: Paul Halliday
+## Version: 0.0.1
+
+KOS.lua
